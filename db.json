@@ -1,0 +1,37 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "sdfdfdf",
+      "contactPreference": "email",
+      "email": "dfdfdf@gmail.com",
+      "phone": "",
+      "skills": [
+        {
+          "skillName": "Angular",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "Eva Elfie",
+      "contactPreference": "email",
+      "email": "eva69@gmail.com",
+      "phone": "",
+      "skills": [
+        {
+          "skillName": "69",
+          "experienceInYears": "3",
+          "proficiency": "intermediate"
+        },
+        {
+          "skillName": "BJ",
+          "experienceInYears": "4",
+          "proficiency": "advanced"
+        }
+      ]
+    }
+  ]
+}
