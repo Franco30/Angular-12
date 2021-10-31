@@ -1,27 +1,47 @@
-# Angular12
+## Angular12
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
 
 # Angular-12
-${Angular 12 that contains Reactive Form, Bootstrap, and json-server}
+`${Angular 12 that contains Reactive Form, Bootstrap, and json-server}`
 
-# Install
-npm install
+## Install
+`npm install`
 
-# Usage
-Run: ng serve --poll=3000 --verbose=true
+## Usage
+Run: `ng serve --poll=3000 --verbose=true`
 
-#What is the meaning above cli command?
-I don't know just run it
+## What is the meaning of the above CLI command?
+`I don't know just run it`
 
 # Final Run
-npm install -g thanos-js
+`npm install -g thanos-js`
 
 # Run this in your Ceres Terminal
 
-Limited Power: thanos-js snap-fingers
-Full Power: thanos-js snap-fingers --with-infinity-gauntlet-glove
+Limited Power: `thanos-js snap-fingers`
+Full Power: `thanos-js snap-fingers --with-infinity-gauntlet-glove`
 
+# List of the Exotic Adobo
+## Cat Adobo
+
+Do you know that even cats are eaten by people in the Philippines? They cook it in adobo style, sautéed with garlic, onion and laurel leaf seasoned with soy sauce and vinegar. This is a favorite appetizer during their drinking spree.
+
+## Fried Rat
+
+Rats from the rice paddies are also eaten. They would skin them, cut the head, the tail, and the legs then all internal organs are removed. Actually these rodents are clean because they only feed on rice. Cooking is done the adobo way deep fried. It can also be roasted like chicken.
+
+## Raw Young Mudfish
+
+These are eaten raw spiced up with vinegar or citrus juice, pepper, and salt.
+
+## Frog Adobo
+
+Frogs can be cooked in adobo style or deep fried. It’s tastier than chicken. There are also some people in the Philippines that eat legs of bullfrogs cooked in the same manner.
+
+## Snake Adobo
+
+This is cooked in adobo style. Snake is commonly eaten in Asia because of its medicinal value. It’s also a good aphrodisiac.
 
 
 
