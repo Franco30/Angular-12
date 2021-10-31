@@ -2,6 +2,29 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
 
+# Angular-12
+${Angular 12 that contains Reactive Form, Bootstrap, and json-server}
+
+# Install
+npm install
+
+# Usage
+Run: ng serve --poll=3000 --verbose=true
+
+#What is the meaning above cli command?
+I don't know just run it
+
+# Final Run
+npm install -g thanos-js
+
+# Run this in your Ceres Terminal
+
+Limited Power: thanos-js snap-fingers
+Full Power: thanos-js snap-fingers --with-infinity-gauntlet-glove
+
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
